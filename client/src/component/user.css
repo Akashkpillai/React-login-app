@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.user-lol{
+    margin-left: 42px;
+    font-size: 21px;
+    background-color: rgb(160, 160, 211);
+    cursor: pointer;
+   
+}
+.user-page{
+    background:linear-gradient(to left, rgb(169, 236, 217), rgb(239, 122, 157));
+}
